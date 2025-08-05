@@ -1,5 +1,12 @@
+![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
+**NOTE**:This is a Demo of the Idea Shown in This Project to the Fundings.
+![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
+
+
 # EMC-Attendance-System
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 ![Untitled design](https://github.com/user-attachments/assets/b316a2f5-d5a2-4f1e-8c2f-2e0750c0ccd7)
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 An Open Source Attendance System For Students Written In Python For EMC- Project. 
 <br>
 
@@ -10,14 +17,14 @@ Year(2024-25)
 
 >[!NOTE]
 ># Modern World Problem.
->. Today's Education System And Offices Have Big issue Of Time Consuming During Attendance And Errors Occurred     During Digital Fingerprint Attendance Machines. <br>
->. Manual Attendance Tracking Se Staff Ka Time Waste Hota hai , Aur Errors Bhi Hote Hai.
+- Today's Education System And Offices Have Big issue Of Time Consuming During Attendance And Errors Occurred During Digital Fingerprint Attendance Machines.
+- Manual Attendance Tracking System Consumes Time and lack of Accuracy.
 
 
 
 <br>
 
-
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 ```
 Our Team Members
 1. Anshu 
@@ -27,8 +34,9 @@ Our Team Members
 5. Pratham 
 6. Sanju 
 7. Satyam
-8. Jayant 
+8. Jayant
 ```
+![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
 
 # This Is A Short Recording Of This Project.
@@ -58,6 +66,6 @@ Follow These Steps👇
 
 # For Fun I am Bio🧬 Student🤣.
 # Project Not Selected For Seed Money😁.
-`
-Rejected At [19-09-2024]
-`
+
+`Rejected At [19-09-2024]`
+
