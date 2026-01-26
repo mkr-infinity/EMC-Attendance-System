@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
-**NOTE**:This is a Demo of the Idea Shown in This Project to the Fundings.
+**NOTE**: This is a Demo of the Idea Shown in This Project for the Fundings.
 ![Image](https://github.com/user-attachments/assets/1679d9f8-c877-427d-9969-e44ade67cb41)
 
 
